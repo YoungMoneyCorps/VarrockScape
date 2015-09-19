@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Owner/Desktop/Server/Source/deps/jython.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Owner/Desktop/Server/Source/deps/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Owner/Desktop/Server/Source/deps/mina.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Owner/Desktop/Server/Source/deps/mysql.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Owner/Desktop/Server/Source/deps/poi.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Owner/Desktop/Server/Source/deps/slf4j.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Owner/Desktop/Server/Source/deps/slf4j-nop.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Owner/Desktop/Server/Source/deps/xstream.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
